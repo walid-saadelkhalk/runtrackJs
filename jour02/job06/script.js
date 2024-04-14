@@ -16,5 +16,4 @@ document.addEventListener('keydown', function(event) {
 
 function applyKonamiStyle() {
     document.body.style.backgroundColor = "#0062ff";
-    document.body.style.color = "#ffffff";
 }
