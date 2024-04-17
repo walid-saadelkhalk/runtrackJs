@@ -1,5 +1,5 @@
 // Code Konami
-var konamiCode = ['ArrowUp', 'ArrowDown','ArrowUp', 'ArrowDown', 'ArrowLeft', 'ArrowRight', 'ArrowLeft', 'ArrowRight', 'b', 'a'];
+var konamiCode = ['ArrowUp', ,'ArrowUp', 'ArrowDown', 'ArrowDown', 'ArrowLeft', 'ArrowRight', 'ArrowLeft', 'ArrowRight', 'b', 'a'];
 var konamiCodePosition = 0;
 
 document.addEventListener('keydown', function(event) {
