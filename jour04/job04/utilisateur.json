@@ -1,0 +1,25 @@
+[{
+    "id": "1",
+    "name": "Doe",
+    "first_name": "John",
+    "email": "john.doe@gmail.com"
+},
+{
+    "id": "2",
+    "name": "Smith",
+    "first_name": "Jane",
+    "email": "jane.smith@gmail.com"
+},
+{
+    "id": "3",
+    "name": "Jones",
+    "first_name": "Tom",
+    "email": "tom.james@gmail.com"
+},
+{
+    "id": "4",
+    "name": "Brown",
+    "first_name": "Alice",
+    "email": "alice.brown@gmail.com"
+}
+]
